@@ -4,7 +4,7 @@ Audience: 4th–5th grade beginners (two sections). One 60–75 min session per 
 
 Teaching approach: Hands-on, concrete-first. Weeks 1–2 unplugged; Weeks 3–8 build a simplified board game in JavaScript with p5.js (recommended) or Python Turtle (alt). Weeks 9–10 are an optional AI mini‑unit; otherwise continue features/polish. Weeks 11–13 finalize and showcase.
 
-Tech pick (recommended): JavaScript + p5.js web editor (no installs). Alt: Python + Turtle in Trinket/Replit.
+Tech pick (recommended): JavaScript + p5.js via OpenProcessing Class (no emails). Alt: p5.js Web Editor or Python + Turtle in Trinket/Replit. Class link: https://openprocessing.org/class/101362#/
 
 Routine: Each week starts with a 5‑minute typing bell‑ringer (Monkeytype or fallback) to build keyboard fluency.
 
@@ -20,7 +20,7 @@ Week 2 — Data, rules, and classification
 
 Week 3 — From paper to screen: draw the board
 - Big idea: Coordinate systems and sprites.
-- Activities: p5.js setup, draw cities as circles and routes as lines; handle mouse clicks.
+- Activities: OpenProcessing class sign-in and p5.js setup; draw cities as circles and routes as lines; handle mouse clicks.
 - Outcome: Starter sketch showing 6–8 cities and a few routes; click highlights.
 
 Week 4 — Model the map with data

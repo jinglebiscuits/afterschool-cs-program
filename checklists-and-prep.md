@@ -1,13 +1,13 @@
 ### Instructor Prep and Checklists
 
 Quick picks
-- Language: JavaScript + p5.js Web Editor (`https://editor.p5js.org/`)
-- Backup: Python Turtle via Trinket/Replit if school blocks p5.js
-- Storage: Keep each team’s code in separate p5.js sketches (named Section-Week-Team)
+- Language: JavaScript + p5.js on OpenProcessing Class (`https://openprocessing.org/class/101362#/`)
+- Backup: Python Turtle via Trinket/Replit if OpenProcessing/p5.js is blocked
+- Storage: Keep each team’s code in separate class sketches (named Section-Week-Team)
 
 Accounts and access
-- Verify lab network allows `editor.p5js.org` and saving to local storage or student accounts.
-- Create a teacher account and a shared class folder/bookmarks.
+- Verify lab network allows `openprocessing.org` (and `editor.p5js.org` as fallback) and allows downloads of ZIP files.
+- Create/prepare your OpenProcessing Class; print join instructions or credential cards (see `openprocessing-join-instructions.md`).
 - Prepare a no‑login plan: starter files downloadable via QR code or short URL.
 - Allowlist typing sites (`https://monkeytype.com/`, `https://www.typingclub.com/`, `https://www.keybr.com/`, `https://www.nitrotype.com/`).
   - I like the typingclub, but I'm not sure if the videos will be easy for us to use. Something that doesn't require any audio and is self driven could be better.
@@ -51,4 +51,10 @@ Rubric (lightweight)
 - Developing: Implement card draw and claim with conditions.
 - Proficient: Complete loop with scoring; clear UI; bug list addressed.
 - Advanced: Added destination tickets or save/load; accessibility polish.
+ - Advanced: Added destination tickets or save/load; accessibility polish.
+
+Weekly backup (end of class)
+- Teams click More (⋯) → Download (ZIP) on their sketch.
+- Save to a shared class folder using the naming convention.
+- If no shared drive, collect ZIPs to a teacher USB organized by section/week.
 
