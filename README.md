@@ -5,7 +5,7 @@ This repo contains a 13‑week, hands‑on introductory computer science program
 ### Highlights
 - **Age‑appropriate**: Concrete‑first approach, unplugged activities, and visual programming transition.
 - **Project‑based**: Students implement a small, playable board game.
-- **Low‑friction tech**: p5.js via an OpenProcessing Class ([class link](https://openprocessing.org/class/101362#/)). Fallbacks: [p5.js Web Editor](https://editor.p5js.org/) or Python Turtle.
+- **Low‑friction tech**: p5.js via an OpenProcessing Class (join link in `local/openprocessing-join-url.txt`). Fallbacks: [p5.js Web Editor](https://editor.p5js.org/) or Python Turtle.
 - **Typing bell‑ringer**: Quick, consistent keyboard practice at the start of each session.
 
 ## What’s Inside
@@ -20,7 +20,7 @@ This repo contains a 13‑week, hands‑on introductory computer science program
 
 ## Getting Started (Teachers)
 1. Review join and backup steps in `openprocessing-join-instructions.md`.
-2. Open your OpenProcessing Class ([class link](https://openprocessing.org/class/101362#/)).
+2. Open your OpenProcessing Class (join link in `local/openprocessing-join-url.txt`). If this file is missing, create `local/` and add `openprocessing-join-url.txt` with the private join URL. The `local/` directory is git-ignored.
 3. Create one starter sketch per pair (or have students create it), then paste the code from `p5js-starter.md` into `sketch.js` and press Run.
 4. If OpenProcessing is blocked, use the [p5.js Web Editor](https://editor.p5js.org/) or `python-turtle-starter.md` in Trinket/Replit.
 5. Review `syllabus-13-weeks.md` and `checklists-and-prep.md` for the weekly flow.

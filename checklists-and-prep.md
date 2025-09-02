@@ -1,7 +1,7 @@
 ### Instructor Prep and Checklists
 
 Quick picks
-- Language: JavaScript + p5.js on OpenProcessing Class (`https://openprocessing.org/class/101362#/`)
+- Language: JavaScript + p5.js on OpenProcessing Class (join link in `local/openprocessing-join-url.txt`)
 - Backup: Python Turtle via Trinket/Replit if OpenProcessing/p5.js is blocked
 - Storage: Keep each team’s code in separate class sketches (named Section-Week-Team)
 

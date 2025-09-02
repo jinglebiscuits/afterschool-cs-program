@@ -1,6 +1,6 @@
 ### p5.js Starter: Routes & Rails Jr (simplified Ticket to Ride)
 
-In your OpenProcessing Class (`https://openprocessing.org/class/101362#/`), create a new sketch and paste the following into `sketch.js`. If OpenProcessing is unavailable, you can also use the p5.js Web Editor (`https://editor.p5js.org/`).
+In your OpenProcessing Class (join link in `local/openprocessing-join-url.txt`), create a new sketch and paste the following into `sketch.js`. If OpenProcessing is unavailable, you can also use the p5.js Web Editor (`https://editor.p5js.org/`).
 
 ```javascript
 // Minimal starter to draw a small map, click cities, and claim routes.

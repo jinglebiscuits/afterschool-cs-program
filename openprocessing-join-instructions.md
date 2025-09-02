@@ -2,7 +2,7 @@
 
 Use this for the p5.js track. Students join your class and save sketches without needing email.
 
-- **Class link**: [OpenProcessing Class](https://openprocessing.org/class/101362#/)
+- **Join link**: see `local/openprocessing-join-url.txt` (local-only)
 - **When to use**: Every coding week (Weeks 3–8, 9–13)
 
 ### Student join options
