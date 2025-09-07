@@ -1,19 +1,19 @@
 ## After‑School Intro to CS (4th–5th Grade)
 
-This repo contains a 13‑week, hands‑on introductory computer science program designed for 4th–5th graders. Students build a simplified board game (inspired by Ticket to Ride) using JavaScript + p5.js, with an optional 2‑week mini‑unit on AI. The plan emphasizes concrete, developmentally appropriate activities and weekly playtesting.
+This repo contains a 13‑week, hands‑on introductory computer science program designed for 4th–5th graders. Students learn core programming ideas together, then choose one of two tracks — a small game of their choice or a generative art project — using JavaScript + p5.js. There is an optional 2‑week mini‑unit on AI. The plan emphasizes concrete, developmentally appropriate activities and weekly sharing.
 
 ### Highlights
 - **Age‑appropriate**: Concrete‑first approach, unplugged activities, and visual programming transition.
-- **Project‑based**: Students implement a small, playable board game.
-- **Low‑friction tech**: p5.js via an OpenProcessing Class (join link in `local/openprocessing-join-url.txt`). Fallbacks: [p5.js Web Editor](https://editor.p5js.org/) or Python Turtle.
+- **Project‑based**: Students implement either a small, playable game or a generative art piece.
+- **Low‑friction tech**: p5.js via an OpenProcessing Class (join link in `local/openprocessing-join-url.txt`). Fallback: [p5.js Web Editor](https://editor.p5js.org/).
 - **Typing bell‑ringer**: Quick, consistent keyboard practice at the start of each session.
 
 ## What’s Inside
 - `syllabus-13-weeks.md`: Week‑by‑week plan, goals, and outcomes.
 - `checklists-and-prep.md`: Setup, room logistics, pairing, pacing, assessment, and safety.
 - `bell-ringer-typing.md`: Typing routine guide (Monkeytype settings, flow, fallbacks).
-- `p5js-starter.md`: p5.js starter sketch with cities, routes, turns, and route claiming.
-- `python-turtle-starter.md`: Trinket/Replit‑friendly Turtle starter with the same mechanics.
+- `p5js-tracks-starter.md`: p5.js starter with a shared core and two paths (Game/Art).
+ 
 - `lesson-one-pager-template.md`: Fast‑fill weekly prep template.
 - `project-description.md`: Program background and constraints.
 - `initial-research.md`: Developmental framework and rationale.
@@ -21,8 +21,8 @@ This repo contains a 13‑week, hands‑on introductory computer science program
 ## Getting Started (Teachers)
 1. Review join and backup steps in `openprocessing-join-instructions.md`.
 2. Open your OpenProcessing Class (join link in `local/openprocessing-join-url.txt`). If this file is missing, create `local/` and add `openprocessing-join-url.txt` with the private join URL. The `local/` directory is git-ignored.
-3. Create one starter sketch per pair (or have students create it), then paste the code from `p5js-starter.md` into `sketch.js` and press Run.
-4. If OpenProcessing is blocked, use the [p5.js Web Editor](https://editor.p5js.org/) or `python-turtle-starter.md` in Trinket/Replit.
+3. Create one starter sketch per pair (or have students create it), then paste the code from `p5js-tracks-starter.md` into `sketch.js` and press Run.
+4. If OpenProcessing is blocked, use the [p5.js Web Editor](https://editor.p5js.org/).
 5. Review `syllabus-13-weeks.md` and `checklists-and-prep.md` for the weekly flow.
 6. Enable the typing bell‑ringer per `bell-ringer-typing.md` (allowlist sites in your network).
 
@@ -70,7 +70,7 @@ Contributions are very welcome. The maintainer will act as the gatekeeper for ch
 
 ## License
 - Curriculum text and handouts: suggested Creative Commons Attribution 4.0 (CC BY 4.0).
-- Code samples (p5.js/Python): suggested MIT License.
+- Code samples (p5.js): suggested MIT License.
 
 If you have licensing preferences, open an Issue so we can finalize and apply them repo‑wide.
 

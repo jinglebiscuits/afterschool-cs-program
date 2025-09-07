@@ -1,6 +1,6 @@
 ### Motivation Playbook (4th–5th Grade After‑School CS)
 
-Audience: Two 60–75 min sections (Tue/Thu), 13 weeks, first‑time coders. Tools: p5.js via OpenProcessing Class; optional Python Turtle.
+Audience: Two 60–75 min sections (Wed/Thu), 13 weeks, first‑time coders. Tools: p5.js via OpenProcessing Class.
 
 ---
 
@@ -9,15 +9,16 @@ Audience: Two 60–75 min sections (Tue/Thu), 13 weeks, first‑time coders. Too
 - **Mastery**: Design small, visible wins every session (a thing they can “ship”).
 - **Purpose**: Share work weekly (mini‑demo) and publicly at end‑of‑semester showcase.
 
-### Default class flow (70–75 min)
-- 5 min — Bell ringer (typing or one‑prompt debug)
+### Default class flow (60 min)
+- 5-10 min - snack in the hallway
+- 5 min — Bell ringer (typing)
 - 10–15 min — Micro‑lesson + live demo (one new idea)
 - 30–40 min — Build time (pairs), teacher conferences
 - 10 min — Boss fight (fun, time‑boxed challenge)
 - 5–10 min — Show & celebrate + backup/cleanup
 
 ### Routines that drive motivation
-- **Choice tracks**: Art with p5.js, Games with p5.js, or Stories with Python Turtle (alt). Students can switch during Weeks 3–5.
+- **Choice tracks**: Art with p5.js, Games with p5.js. Students can switch during Weeks 3–5.
 - **Visible progress**: Post a "Ship‑It Shelf" of links/screenshots; use small badges (Variables, Loops, Conditions, State, Randomness, Debug Detective).
 - **Real audience**: Weekly 60–90s mini‑demos; mid‑semester share; Week 13 showcase.
 - **Student jobs**: Tech Helper, Bug Buster, Demo Captain, Timekeeper. Rotate weekly.

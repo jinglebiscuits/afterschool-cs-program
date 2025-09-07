@@ -2,7 +2,7 @@
 
 Quick picks
 - Language: JavaScript + p5.js on OpenProcessing Class (join link in `local/openprocessing-join-url.txt`)
-- Backup: Python Turtle via Trinket/Replit if OpenProcessing/p5.js is blocked
+- Backup: p5.js Web Editor if OpenProcessing is blocked
 - Storage: Keep each team’s code in separate class sketches (named Section-Week-Team)
 
 Accounts and access
