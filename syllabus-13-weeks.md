@@ -10,6 +10,9 @@ Routine: Each week starts with a 5‑minute typing bell‑ringer (Monkeytype or 
 
 Week 1 — Algorithms are recipes
 - Class rules (raffle tickets, laniards)
+- Create accounts
+- Introduce the websites we'll be using
+- Demonstrate how to use the IDE
 - Cartesian coordinates
 - Canvas coordinates
 - How to draw a circle in the middle of the screen
